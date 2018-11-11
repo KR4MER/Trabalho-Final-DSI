@@ -1,4 +1,4 @@
-package connectionFactory;
+package contas.connectionFactory;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
